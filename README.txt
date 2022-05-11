@@ -3,6 +3,11 @@ Ausführen vom Spiel:
 1. Schritt: Alle Dateien in diesem Repository herunterladen und so zusammen lassen, wie sie sind.
 2. Schritt: Kompilieren von main.py
 
+ODER
+
+Herunterladen und Ausführen von MyGame.exe. 
+Dies ist sicher, auch wenn der Computer davor warnt. Wer der exe aber nicht vertraut, sollte stattdessen die erste
+Variante zum Ausführen des Spiels nutzen.
 
 Kurze Erklärung zum Spiel:
 
