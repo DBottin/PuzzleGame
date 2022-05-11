@@ -1,3 +1,9 @@
+Ausführen vom Spiel:
+
+1. Schritt: Alle Dateien in diesem Repository herunterladen und so zusammen lassen, wie sie sind.
+2. Schritt: Kompilieren von main.py
+
+
 Kurze Erklärung zum Spiel:
 
 Der Spieler steuert alle Zahnräder und versucht, die Flagge zu erreichen.
