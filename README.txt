@@ -9,6 +9,7 @@ Herunterladen und Ausführen von MyGame.exe.
 Dies ist sicher, auch wenn der Computer davor warnt. Wer der exe aber nicht vertraut, sollte stattdessen die erste
 Variante zum Ausführen des Spiels nutzen.
 
+
 Kurze Erklärung zum Spiel:
 
 Der Spieler steuert alle Zahnräder und versucht, die Flagge zu erreichen.
