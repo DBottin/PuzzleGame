@@ -1,3 +1,6 @@
+Der gesamte Python Code vom Spiel ist in main.py und sprites.py zu finden.
+
+
 Ausführen vom Spiel:
 
 1. Schritt: Alle Dateien in diesem Repository herunterladen und so zusammen lassen, wie sie sind.
